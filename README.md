@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Elias De Hondt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/25233962/183266267-1960ae80-3d27-4923-8693-423171e0851c.gif" />
+  <img src="https://user-images.githubusercontent.com/25233962/183266315-df6a55d0-7dba-402f-a817-51b154a035d2.gif" />
 </p>
 
 
