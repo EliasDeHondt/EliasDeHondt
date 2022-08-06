@@ -1,8 +1,9 @@
-<h1 align="center">Hi , I'm Elias De Hondt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://user-images.githubusercontent.com/25233962/183266170-1b5097d9-39e2-465f-8310-dffe885fc8c6.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi , I'm Elias De Hondt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif](https://user-images.githubusercontent.com/25233962/183266170-1b5097d9-39e2-465f-8310-dffe885fc8c6.gif" />
+  <img src="https://user-images.githubusercontent.com/25233962/183266267-1960ae80-3d27-4923-8693-423171e0851c.gif" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
