@@ -1,14 +1,20 @@
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi , I'm Elias De Hondt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/25233962/183399529-c08a573e-07fc-451c-b17f-b777a90983b6.png" />
+  <img src="https://user-images.githubusercontent.com/25233962/183371920-e988cadd-57db-4f47-ba7b-f176837c526d.gif" />
 </p>
 
-## 🙋‍♂️ About EliasDH.com
-  - 👯 Web hosting company [EliasDH](https://www.eliasdh.com).
+## 🙋‍♂️ About Me
+  - 👯 I run my own web hosting company [EliasDH](https://www.eliasdh.com).
   - 📫 How to reach me **eliasdehondt@outlook.com**.
   - 📖 Read my blogs [here](https://www.eliasdh.com/assets/html/blogs/blogs.html).
 
+  - ⚡ About Myself : 
+      - **keen observer. ✨**
+      - **always appreciate art. 🎭**
+      - **Open to read and learn anything I'm interested in. 😅**
+      - **like to read Books, watch Documentary, watch Movies. 😉** 
+    
 ## 🚀 Languages and Tools:
 
 <p align="left">
