@@ -5,9 +5,9 @@
 </p>
 
 ## 🙋‍♂️ About Me
-  - 👯 I run my own web hosting company [EliasDH](https://www.eliasdh.com).
+  - 👯 I run my own web hosting company [EliasDH](https://eliasdh.com).
   - 📫 How to reach me **eliasdehondt@outlook.com**.
-  - 📖 Read my blogs [here](https://www.eliasdh.com/assets/html/blogs/blogs.html).
+  - 📖 Read my blogs [here](https://eliasdh.com/assets/html/blogs/blogs.html).
 
   - ⚡ About Myself : 
       - **keen observer. ✨**
