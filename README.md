@@ -9,10 +9,10 @@
   - 📫 How to reach me **elias.dehondt@outlook.com**
 
   - ⚡ About Myself : 
-      - **keen observer. ✨**
-      - **always appreciate art. 🎭**
+      - **Keen observer. ✨**
+      - **Always appreciate art. 🎭**
       - **Open to read and learn anything I'm interested in. 😅**
-      - **like to read Books, watch Documentary, watch Movies. 😉** 
+      - **Like to read Books, watch Documentary, watch Movies. 😉** 
     
 ## 🚀 Languages and Tools:
 
