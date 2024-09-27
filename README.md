@@ -1,9 +1,7 @@
 <h1 align="center">Hi , I'm Elias De Hondt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <video width="640" height="360" controls autoplay>
-    <source src="https://github.com/user-attachments/assets/cb5ea907-c76c-444e-9ec1-25840bbd6c6d">
-  </video>
+  <img src="https://github.com/user-attachments/assets/28c67e6f-f36a-4f10-bf63-2833918e5a22" />
 </p>
 
 ## 🙋‍♂️ About Me
