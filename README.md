@@ -5,9 +5,6 @@
 </p>
 
 ## 🙋‍♂️ About Me
-  - 👯 I run my own web hosting company [EliasDH](https://eliasdh.com).
-  - 📫 How to reach me **elias.dehondt@outlook.com**
-
   - ⚡ About Myself : 
       - **Keen observer. ✨**
       - **Always appreciate art. 🎭**
